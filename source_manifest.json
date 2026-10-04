@@ -1,0 +1,18 @@
+{
+  "scripts/completeness_checks.py": {
+    "sha256": "62ec6d5e08d5facacad2b93d988ebcbb1d64b028e172ccb6b47c29da83663473",
+    "copied_without_edits": true
+  },
+  "reference_results/completeness_checks.json": {
+    "sha256": "0f59447fd8d53b0274cae88861d757fa139701e36c3ca89e22296129a601244a",
+    "copied_without_edits": true
+  },
+  "reference_results/completeness_log.txt": {
+    "sha256": "731ab5024bffc38e5708345290ab1d628accd7413966f1e67faf40845c3f0058",
+    "copied_without_edits": true
+  },
+  "licenses/UPSTREAM_MIT.txt": {
+    "sha256": "f2b20fcdca6d78872c3b9958d842c7281deacae84a3486db9195438aac8b7ccd",
+    "copied_without_edits": true
+  }
+}

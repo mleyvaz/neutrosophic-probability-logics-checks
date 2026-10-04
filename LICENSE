@@ -1,0 +1,15 @@
+License notices for the supplementary material
+
+The original supplementary README expressly specifies:
+    License: CC BY 4.0.
+
+This notice is preserved for the copied computational checks and their
+reference results. The package citation metadata uses the same license.
+Creative Commons Attribution 4.0 International (SPDX: CC-BY-4.0):
+https://creativecommons.org/licenses/by/4.0/
+Legal terms: https://creativecommons.org/licenses/by/4.0/legalcode.en
+
+The parent project's MIT license, including its original copyright notice,
+is preserved without alteration in licenses/UPSTREAM_MIT.txt. These inherited
+notices are documented in PROVENANCE.md. No new exclusive license or new
+original-programmer attribution is asserted by this packaging work.

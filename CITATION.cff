@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "Please cite this computational artifact using these metadata; add the DOI after its release deposit."
+type: software
+title: "Computational checks for Complete probability logics for neutrosophic triples"
+version: 1.0.0
+repository-code: "https://github.com/mleyvaz/neutrosophic-probability-logics-checks"
+date-released: 2026-10-04
+license: CC-BY-4.0
+abstract: >-
+  Reproducible finite and randomized computational checks for lower-probability
+  logics of truth, indeterminacy and falsity. Includes the original numerical
+  script, reference results, a runner, and result verification. The checks
+  do not replace the formal proofs. Contributor order follows the associated
+  research article and does not assert original programmer attribution.
+authors:
+  - family-names: Smarandache
+    given-names: Florentin
+    affiliation: "University of New Mexico, Gallup, USA"
+  - family-names: Leyva-Vázquez
+    given-names: Maikel Yelandi
+    orcid: "https://orcid.org/0000-0001-7911-5879"
+    affiliation: "Universidad Bernardo O'Higgins, Santiago, Chile; Universidad de Guayaquil, Guayaquil, Ecuador"
+keywords:
+  - probability logic
+  - neutrosophic triples
+  - lower probability
+  - computational checks
+  - reproducibility

@@ -1,0 +1,28 @@
+{
+  "title": "Computational checks for Complete probability logics for neutrosophic triples",
+  "upload_type": "software",
+  "description": "Reproducibility package for Complete probability logics for neutrosophic triples: a response to Rivieccio's completeness question. Eleven finite and randomized sanity checks cover probability translations, normalized and lifted validities, LP/FDE/K3 consequence, satisfiability reductions, indeterminacy-sensitive consequence and signed-charge representations. Includes original scripts, archived reference outputs, a runner and an explicit verifier. Computations do not replace the formal proofs. Creator order follows the associated article and does not assert original programmer attribution. Supplement-specific CC BY 4.0 notice and original parent-project MIT notice are preserved and documented.",
+  "creators": [
+    {
+      "name": "Smarandache, Florentin",
+      "affiliation": "University of New Mexico, Gallup, USA"
+    },
+    {
+      "name": "Leyva-Vázquez, Maikel Yelandi",
+      "affiliation": "Universidad Bernardo O'Higgins, Santiago, Chile; Universidad de Guayaquil, Guayaquil, Ecuador",
+      "orcid": "0000-0001-7911-5879"
+    }
+  ],
+  "keywords": [
+    "probability logic",
+    "neutrosophic triples",
+    "lower probability",
+    "computational checks",
+    "reproducibility"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "version": "1.0.0",
+  "publication_date": "2026-10-04",
+  "language": "eng"
+}
