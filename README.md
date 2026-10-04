@@ -5,6 +5,10 @@ triples: a response to Rivieccio's completeness question*, associated with
 Florentin Smarandache and Maikel Yelandi Leyva-Vázquez, in that order.
 Package version: **1.0.0**.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23138967.svg)](https://doi.org/10.5281/zenodo.23138967)
+
+[GitHub release v1.0.0](https://github.com/mleyvaz/neutrosophic-probability-logics-checks/releases/tag/v1.0.0)
+
 The package runs eleven computational sanity checks for the paper's
 computational appendix (Appendix A in the original source, numbered
 Section 12 in the Word export). It contains the original numerical script,
@@ -101,15 +105,20 @@ labels from the original supplement. The package contains no manuscript.
 - `results/`: fresh numerical JSON, log and tested environment.
 - `requirements.txt`: pinned numerical dependencies.
 - `CITATION.cff`: software citation, with research-author order supplied for this artifact.
-- `.zenodo.json`: prepared deposition metadata; no DOI or repository URL assigned.
+- `.zenodo.json`: deposition metadata template; the version DOI is recorded in `CITATION.cff` and the published Zenodo record.
 - `source_manifest.json`, `PROVENANCE.md`, `LICENSE`, `licenses/UPSTREAM_MIT.txt`: source integrity and inherited notices.
 
 ## Citation and licensing
 
 Use `CITATION.cff` to cite this computational artifact. Its contributor order
 follows the associated research article; it does not assert who originally
-programmed each file. Update citation identifiers after the public release
-receives its DOI. No identifier is reserved or fabricated in this package.
+programmed each file. The version DOI is
+[10.5281/zenodo.23138967](https://doi.org/10.5281/zenodo.23138967).
+
+The deposited ZIP was prepared from release **v1.0.0**, commit
+[5921a03](https://github.com/mleyvaz/neutrosophic-probability-logics-checks/commit/5921a03).
+Use that tagged commit to reproduce the archived release. Do not rebuild its
+ZIP from a later `main` checkout containing post-deposit DOI/citation edits.
 
 The supplementary material explicitly carried **CC BY 4.0**. The parent
 project also carried an MIT notice; that original notice is retained in full.
